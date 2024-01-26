@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image: url("background light.jpg");
+    background-size: cover;
+    margin: 0;
+  }
+  
+  .main-title {
+    font-size: 120px;
+    margin: 0;
+  }
+  
+  .play-button,
+  .Scoreboard_Button {
+    width: 250px;
+    height: 100px;
+    margin: 0;
+  }
+  
+  .game-images {
+    display: flex;
+    margin-top: -19.5%;
+    margin-left: 56.351%;
+  }
+  
+  .logo {
+    margin: 0;
+    max-height: 500px; /* Ajoutez votre hauteur maximale ici */
+  }
+  
